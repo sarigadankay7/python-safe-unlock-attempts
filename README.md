@@ -18,3 +18,7 @@ This is a beginner-friendly project that demonstrates the use of:
     Conditional (if-else) logic
 
     Basic security flow control
+
+## 🐍 Python Safe Unlock Simulation
+
+![Python Digital Lock](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
