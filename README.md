@@ -8,6 +8,10 @@ This Python script simulates a digital safe lock system that requires a 4-digit 
     If the code is incorrect, it prints "wrong code" and informs the user how many attempts are left.
 
     After 5 failed attempts, the safe becomes permanently locked and displays "safe permanently locked".
+    ## 🐍 Python Safe Unlock Simulation
+
+![Python Digital Lock](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+
 
 This is a beginner-friendly project that demonstrates the use of:
 
@@ -19,6 +23,3 @@ This is a beginner-friendly project that demonstrates the use of:
 
     Basic security flow control
 
-## 🐍 Python Safe Unlock Simulation
-
-![Python Digital Lock](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
